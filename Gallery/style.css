@@ -1,0 +1,66 @@
+body{
+background-color:#cec9c9;
+margin: 0;
+
+}
+.navbar{
+    background-color: aquamarine;
+ display: flex;
+ justify-content: center; /* Center horizontally */
+ background-color: aliceblue;
+ padding: 20px 0; /* Add some top and bottom padding for spacing */
+}
+.abc{
+    padding:  20px ; /* Add some top and bottom padding for spacing */
+    list-style-type: none;
+    font-size: 20px;
+    color: #333;
+    text-decoration: none;
+  display: inline;
+}
+ul{
+    
+    list-style-type: none;
+    margin: 0;
+ 
+    margin: 0;
+    padding: 0;
+}
+
+.list{
+    display: inline; /* Display list items horizontally */
+    margin: 0 10px; /* Add horizontal spacing between list items */
+    font-size: 14px;
+
+}
+a:hover{
+    background-color: orange;
+}
+.actor{
+    background-color: greenyellow;
+    padding:  20px ; /* Add some top and bottom padding for spacing */
+    list-style-type: none;
+    font-size: 20px;
+    color: #333;
+    text-decoration: none;
+  display: inline;
+}
+
+
+
+
+.logo{
+    width: 70px;
+}
+.im{
+    padding: 10px;
+    margin: 10px;
+    width: 15%;
+    
+}
+
+
+
+
+
+

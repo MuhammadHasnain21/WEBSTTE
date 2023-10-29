@@ -1,0 +1,141 @@
+body{
+    background-color: #cec9c9;
+background-image: url(../paper-art-smartphone-online-shopping-your-text-space-background-shopping-cart_599740-241.jpg);
+margin-top: 0;
+background-size: cover;
+margin: 0;
+}
+
+
+h1{
+text-align: center;
+color: #686868;
+}
+p{
+    padding: 20px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial , sans-serif;
+    color: #686868;
+    
+  
+   
+}
+.header2{
+    color: rgb(79, 80, 82);
+    text-align: right;
+    border: 2px solid orange;
+   
+padding: 10px;
+
+    display: inline;
+ 
+   
+   font-size: 29px;
+
+}
+
+
+
+
+
+
+
+
+
+
+.navbar{
+    background-color: aquamarine;
+
+ display: flex;
+ justify-content: center; /* Center horizontally */
+
+
+
+ background-color: aliceblue;
+ padding: 20px 0; 
+}
+
+
+.actor{
+    background-color: greenyellow;
+}
+
+
+
+
+
+
+
+
+
+
+.navbar a{
+    padding:  20px ; /* Add some top and bottom padding for spacing */
+
+    font-size: 20px;
+    color: #333;
+    text-decoration: none;
+  
+}
+.navbar a:hover{
+    background-color: orange;
+}
+
+
+ul{
+    
+    list-style-type: none;
+    margin: 0;
+ 
+    margin: 0;
+    padding: 0;
+}
+
+.list{
+    display: inline; /* Display list items horizontally */
+    margin: 0 10px; /* Add horizontal spacing between list items */
+    font-size: 14px;
+
+}
+img{
+        width: 70px;
+        margin: 0; /* Remove margin */
+        padding: 0; /* Remove padding */
+    }
+    
+
+.btn a{
+    padding: 10px;
+  
+    font-size: 20px;
+    text-decoration: none;
+border: #007bff;
+border-radius: 8px;
+color: white;
+background-color:#007bff ;
+text-align: right;
+margin-left: 600px; ;
+
+
+    
+
+}
+.btn a:hover{
+   background-color: #0056b3;
+
+}
+
+
+
+
+
+
+
+
+
+img.logo {
+    width: 70px;
+    margin: 0; /* Remove margin */
+    padding: 0; /* Remove padding */
+}

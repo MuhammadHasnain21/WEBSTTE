@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+background-color: #cec9c9;
+background-image: url(../paper-art-smartphone-online-shopping-your-text-space-background-shopping-cart_599740-241.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+.navbar{
+    background-color: aquamarine;
+ display: flex;
+ justify-content: center; /* Center horizontally */
+ background-color: aliceblue;
+ padding: 20px 0; /* Add some top and bottom padding for spacing */
+}
+a{
+    padding:  20px ; /* Add some top and bottom padding for spacing */
+    list-style-type: none;
+    font-size: 20px;
+    color: #333;
+    text-decoration: none;
+  display: inline;
+}
+ul{
+    
+    list-style-type: none;
+    margin: 0;
+ 
+    margin: 0;
+    padding: 0;
+}
+
+.list{
+    display: inline; /* Display list items horizontally */
+    margin: 0 10px; /* Add horizontal spacing between list items */
+    font-size: 14px;
+
+}
+.navbar a:hover{
+    background-color: orange;
+}
+.actor{
+    background-color: greenyellow;
+}
+
+.logo{
+    width: 70px;
+    margin-top: 0;
+ 
+}
+h1{
+    text-align: center;
+    color: #333;
+}
+.content{
+    text-align: center;
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 400px;
+    background-color: white;
+}
+.content a:hover{
+    color: blue;
+}
